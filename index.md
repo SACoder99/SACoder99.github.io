@@ -66,8 +66,8 @@ Hi, I am Shriyans! I am a rising Junior currently in Dallas, TX and am passionat
  - Qualified to compete at Texas States in International Business Plan
    
 # Certifications
-### Microsoft Word and Excel 2019 Expert 
-### CodeHS Python Certification
+ - Microsoft Word and Excel 2019 Expert 
+ - CodeHS Python Certification
 
 # Honors
-### PVSA Silver Recipient
+ - PVSA Silver Recipient
