@@ -1,20 +1,18 @@
 # Shriyans Agarwal 
 [My GitHub](https://github.com/SACoder99), [LinkedIn](https://www.linkedin.com/in/shriyans-agarwal-3b0930313), [Resume](resume1.pdf)
 
-<table>
-  <tr>
-    <td>
-      <img src="image.png" alt="Shriyans" width="150" style="border-radius: 10px;">
-    </td>
-    <td style="padding-left: 20px;">
-      <p>
-        <strong>Hi, I am Shriyans!</strong><br>
-        I am a rising Junior currently in Dallas, TX and am passionate about AI/ML and electrical engineering. <br>
-        I am actively seeking internship opportunities, so please feel free to look through my website and connect with me.
-      </p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="max-width: 70%;">
+    <p>
+      <strong>Hi, I am Shriyans!</strong><br>
+      I am a rising Junior currently in Dallas, TX and am passionate about AI/ML and electrical engineering.<br>
+      I am actively seeking internship opportunities, so please feel free to look through my website and connect with me.
+    </p>
+  </div>
+  <div>
+    <img src="image.png" alt="Shriyans" width="150" style="border-radius: 10px;">
+  </div>
+</div>
 
 # Projects
 
