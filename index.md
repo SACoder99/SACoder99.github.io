@@ -43,9 +43,17 @@ Hi, I am Shriyans! I am a rising Junior currently in Dallas, TX and am passionat
  - Gained Valuable expierence by leading 300+ people and giving them an opportunity to help the community
  - Led several initiatives and raised 230+ food cans, $1.5K for disaster relief and Veterans’ health, 50 activity books, 173 PBJ sandwiches
 
+### HackAmerica
+<small>Co-Founder and Programmer: March 2025 - Present</small>
+ - Organizing a nationwide Hackathon for high school students to participate in and strengthen their computer science skills in Fall 2025.
+
+### Speech and Debate
+<small>Competitor: August 2023 - May 2025</small>
+ - Competed in several different events in tournaments and won awards as part of advancing to higher stages in tournaments.
+
 # Research
 ### UC San Diego
-<small>Aug 2023 - May 2025</small>
+<small>Researcher: June 2025 - Present</small>
  - Doing Research under Dr. Munyaka about Security
  - Will be using LLMs, doing a user study and testing models to arrive at an conclusion
 
@@ -54,7 +62,7 @@ Hi, I am Shriyans! I am a rising Junior currently in Dallas, TX and am passionat
 
 # Other Achievements
 ### DECA
- - <small>Competitor: Aug 2023 - May 2025</small>
+<small>Competitor: Aug 2023 - May 2025</small>
  - Qualified to compete at Texas States in International Business Plan
    
 # Certifications
