@@ -1,6 +1,14 @@
----
-layout: default
-title: Welcome to SACoder99
----
+##Projects
+###Projects 1
+ - Description
+ - Links
 
-# 👋 Hello!
+### Project 2
+ - Description
+ - Links
+
+# Education
+ - Some University
+
+#Work History
+ - Workplace 1 
