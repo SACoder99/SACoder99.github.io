@@ -16,11 +16,13 @@ Hi, I am Shriyans! I am a rising Junior currently in Dallas, TX and am passionat
    
 
 # Experience
- - Description
- - Links
+### iCode Intern Instructor
+<small>Aug 2023 - May 2025</small>
+ - Taught kids aged 4-16 Python, JavaScript, Lua and Robotics Fundamentals each week over summer 
+
 
 # Research
- - Some University
+ - Doing Research 
 
 # Publications
 
