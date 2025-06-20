@@ -1,4 +1,4 @@
-# Shriyans Agarwal
+# Shriyans Agarwal ![My Image](assets/myimage.png)
 [My GitHub](https://github.com/SACoder99), [LinkedIn](https://www.linkedin.com/in/shriyans-agarwal-3b0930313), [Resume](resume1.pdf)
 
 Hi, I am Shriyans! I am a rising Junior currently in Dallas, TX and am passionate about AI/ML and about electrical engineering as well. I am currently actively seeking any internship opportuniies so please feel free to look through my website and feel free to connect with me.
@@ -12,7 +12,7 @@ Hi, I am Shriyans! I am a rising Junior currently in Dallas, TX and am passionat
  - [Link](https://github.com)
 
 ### HackAmerica Website
- - [Link](https://github.com)
+ - [Link](https://www.hackamerica.org/)
    
 
 # Experience
