@@ -5,12 +5,11 @@
   <div style="max-width: 70%;">
     <p>
       <strong>Hi, I am Shriyans!</strong><br>
-      I am a rising Junior currently in Dallas, TX and am passionate about AI/ML and electrical engineering.<br>
-      I am actively seeking internship opportunities, so please feel free to look through my website and connect with me.
+      I am a rising Junior currently in Dallas, TX and am passionate about AI/ML and electrical engineering. I am actively seeking internship opportunities, so please feel free to look through my website and connect with me.
     </p>
   </div>
   <div>
-    <img src="image.png" alt="Shriyans" width="150" style="border-radius: 10px;">
+    <img src="image.png" alt="Shriyans" width="200" style="border-radius: 10px;">
   </div>
 </div>
 
