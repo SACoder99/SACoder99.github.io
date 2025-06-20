@@ -6,11 +6,14 @@ Hi, I am Shriyans! I am a rising Junior currently in Dallas, TX and am passionat
 # Projects
 
 ### AI Stock Market Predictor
- - [Links](https://sastockmarketpredictor.streamlit.app/)
+ - [Link](https://sastockmarketpredictor.streamlit.app/)
 
 ### Food Waste Program
+ - [Link](https://github.com)
 
-### 
+### HackAmerica Website
+ - [Link](https://github.com)
+   
 
 # Experience
  - Description
