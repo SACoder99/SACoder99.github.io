@@ -1,5 +1,5 @@
 # Shriyans Agarwal 
-[My GitHub](https://github.com/SACoder99), [LinkedIn](https://www.linkedin.com/in/shriyans-agarwal-3b0930313), [Resume](resume1.pdf)
+[My GitHub](https://github.com/SACoder99), [LinkedIn](https://www.linkedin.com/in/shriyans-agarwal-3b0930313), [Resume](resume.pdf)
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="max-width: 70%;">
